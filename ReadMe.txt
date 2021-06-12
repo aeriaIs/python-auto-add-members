@@ -1,6 +1,6 @@
-Hello !!!!!, 
+Hi, 
 
-How its works?????
+How its works?
 
 - you must install Python 3
 - Install Atom or any text editor (Not necessary )
@@ -13,14 +13,3 @@ How its works?????
 
 Basically it scrapes member from group where the logined id is admin and it creates a .csv file.
 And the adder reads .csv file and add member to the target group.
-
-
-
-
-
-  ____                                    ____ _           _    _         
- / ___|  __ _ _ __ ___   ___  ___ _ __   / ___| |__   ___ | | _| |_   _  
- \___ \ / _` | '_ ` _ \ / _ \/ _ \ '__| | |   | '_ \ / _ \| |/ / | | |    
-  ___) | (_| | | | | | |  __/  __/ |    | |___| | | | (_) |   <| | |_| |  
- |____/ \__,_|_| |_| |_|\___|\___|_|     \____|_| |_|\___/|_|\_\_|\__, |  
-                                                                   |___/  
